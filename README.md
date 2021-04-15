@@ -1,4 +1,4 @@
-# caq2wav2tax
+# caq2wav2tzx
 Mattel Aquarius CAQ file converter 
 
 CAQ2WAV by James Tamer was single conversion only. Thanks James for giving us access to the source code.
