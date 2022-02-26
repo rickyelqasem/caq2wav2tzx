@@ -7,4 +7,5 @@ CAQ2WAV by James Tamer was single conversion only. Thanks James for giving us ac
 Ricky El-Qasem - Built the GUI known as CAQ2WAV2TZX . Now multiple caq files can be converted
 
 NOTE: select 11025 on the wav quality if you plan to also convert to TZX. 
+
 NOTE: wav is inverted and will not work on emulator -  will look at fixing later...
